@@ -51,8 +51,7 @@ h3{
 }
 .half-width img{
     width:100%;
-    
-    
+  
 }
 .button-link{
     background-image:linear-gradient(rgb(245, 1, 41),rgb(184, 113, 231));
@@ -72,22 +71,15 @@ h3{
 }
 .box{
     box-shadow: 10px 10px 30px gray;
-    width:23%;
-    margin: 3%;
+    width:21%;
+    margin: 2%;
     border-radius: 25px;
-    padding: 1%;
+    padding:1.5%;
         
 }
 .box img{
-    width:93%;
+    width:97.5%;
     border-radius:10px;
-}
-.shedow-box{
-    box-shadow: 10px 10px 30px gray;
-    width: 80%;
-    margin:9%;
-    border-radius:20px;
-
 }
 .end-line{
     text-align: center;
