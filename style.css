@@ -41,6 +41,7 @@ h3{
 .another-flex{
     display: flex;
     margin-bottom:100px;
+    justify-content:center;
     
 }
 .half-width{
@@ -71,19 +72,15 @@ h3{
 }
 .box{
     box-shadow: 10px 10px 30px gray;
-    width:100%;
-    margin-left: 5%;
-    margin-right: 4%;
-    border-radius: 30px;
-    padding-top: 20px;
-    padding-bottom:15px;
-    padding-left: 2%;
-    padding-right:0.5%;
-   
-    
+    width:23%;
+    margin: 3%;
+    border-radius: 25px;
+    padding: 1%;
+        
 }
 .box img{
     width:93%;
+    border-radius:10px;
 }
 .end-line{
     text-align: center;
